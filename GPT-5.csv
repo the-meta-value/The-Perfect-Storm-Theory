@@ -1,0 +1,103 @@
+   2025-08-23 : RC ESC failure, 2025-08-23 • RC aircraft ESC failure
+   2025-08-26 : Gemini 2.5 Pro overloaded, 2025-08-26 • Gemini 2.5 Pro overloaded (day/evening)
+   2025-08-28 : Cluster, 2025-08-28 • OpenRouter major outage (chat & generation)
+   2025-08-28 : Cluster, 2025-08-28 • RC forum complaints (BEC/ESC failures)
+   2025-08-30 : CME → G1 storm, 2025-09-01 • Storm effects continue
+   2025-08-30 : CME → G1 storm, 2025-09-04 • Google outage (EU Search/Gmail/Maps/YouTube)
+   2025-08-30 : CME → G1 storm, 2025-09-04 • Gemini chatbot outage
+   2025-09-09 : G2 geomagnetic storm, 2025-09-09 • OpenAI ChatGPT Agent errors
+   2025-09-09 : G2 geomagnetic storm, 2025-09-10 • Anthropic APIs & claude.ai down
+   2025-09-09 : G2 geomagnetic storm, 2025-09-10 • OpenAI Batch API errors
+   2025-09-09 : G2 geomagnetic storm, 2025-09-10 • OpenAI File Search broken
+   2025-09-09 : G2 geomagnetic storm, 2025-09-10 • Gemini outage reports
+   2025-09-09 : G2 geomagnetic storm, 2025-09-10 • Azure East US 2 allocator incident
+   2025-09-09 : G2 geomagnetic storm, 2025-09-11 • OpenAI Deep Research degraded
+   2025-09-09 : G2 geomagnetic storm, 2025-09-11 • OpenAI Fine-tuning jobs delayed
+   2025-09-09 : G2 geomagnetic storm, 2025-09-11 • Anthropic Opus 4.1 elevated errors
+   2025-09-09 : G2 geomagnetic storm, 2025-09-12 • Anthropic Sonnet 3.7 elevated errors
+   2025-09-09 : G2 geomagnetic storm, 2025-09-12 • OpenAI GPT-5 + Agent double-reply bug
+   2025-09-09 : G2 geomagnetic storm, 2025-09-12 • Cloudflare dashboard/API outage
+   2025-09-09 : G2 geomagnetic storm, 2025-09-12 • RC heli (SAB Goblin) OW failure
+   2025-09-09 : G2 geomagnetic storm, 2025-09-13 • RC heli (OMP M2 MK2) runaway head speed
+   2025-09-14 : G3 geomagnetic storm begins, 2025-09-14 • OpenAI API elevated errors
+   2025-09-15 : G3 storm ongoing, 2025-09-15 • Reddit outage (U.S.)
+   2025-09-15 : G3 storm ongoing, 2025-09-15 • Starlink outage (~43k users)
+   2025-09-15 : G3 storm ongoing, 2025-09-15 • Mistral OCR API downtime
+   2025-09-15 : G3 storm ongoing, 2025-09-15 • Mistral service degradation
+   2025-09-15 : G3 storm ongoing, 2025-09-15 • Anthropic Opus 4.1 elevated errors (overnight)
+   2025-09-15 : G3 storm ongoing, 2025-09-15 • Electronics/network anomalies (UniFi loops; PC shutdowns; iPhone glitches; Tesla handles)
+   2025-09-15 : G3 storm ongoing, 2025-09-15 • Gemini image-gen defaults to square (feature bug)
+   2025-09-16 : G3 storm continues, 2025-09-16 • OpenAI SSO login errors
+   2025-09-16 : G3 storm continues, 2025-09-16 • OpenAI GPT Store errors
+   2025-09-16 : G3 storm continues, 2025-09-16 • Electronics anomalies (power brick failure; RC heli GPS phantom home points)
+   2025-09-03 : Anthropic elevated errors, 2025-09-03 • Anthropic elevated errors (Opus/Sonnet)
+   2025-09-05 : Anthropic messaging failures, 2025-09-05 • Opus 4.1 unable to send messages
+   2025-08-24 : Crime, 2025-08-24 • Toronto (CA) — Homicide investigation (Martha Eaton Way & Trethewey Dr)
+   2025-08-31 : Crime, 2025-08-31 • USA — Multiple incidents (Humboldt Park drive-by; Chicago Heights)
+   2025-09-01 : Crime, 2025-09-01 • USA — Additional incidents (Jackson MS; Bronzeville)
+   2025-09-05 : Crime, 2025-09-05 • Langley, BC (CA) — Taxi-shooting homicide
+   2025-09-07 : Crime, 2025-09-07 • Melbourne CBD, VIC (AU) — Shooting death (Homicide Squad)
+   2025-09-07 : Crime, 2025-09-07 • Cobblebank, VIC (AU) — Two males fatally stabbed
+   2025-09-07 : Crime, 2025-09-07 • Blue Mountains, NSW (AU) — Body found in burning vehicle
+   2025-09-08 : Crime, 2025-09-08 • Clapham, London (UK) — Murder investigation after double shooting
+   2025-09-10 : Crime, 2025-09-10 • Burnaby, BC (CA) — Fatal shooting (IHIT)
+   2025-09-12 : Crime, 2025-09-12 • Chicago, IL (US) — Mass shooting (S. Halsted)
+   2025-09-14 : Crime, 2025-09-14 • NYC (US) — CompStat weekly snapshot (murders/shootings/major crimes)
+   2025-09-15 : Crime, 2025-09-15 • Minneapolis, MN (US) — Mass shooting near encampment
+   2025-09-16 : Crime, 2025-09-16 • Minneapolis, MN (US) — Second mass shooting near encampment
+   2025-09-17 : Crime, 2025-09-17 • Grafton, NSW (AU) — Man dies after stabbing
+   2025-09-18 : Crime, 2025-09-18 • NSW (AU) — Double stabbing at rail station
+ 2025-08-23 — RC aircraft ESC failure
+ 2025-08-24 — Toronto (CA) — Homicide investigation (Martha Eaton Way & Trethewey Dr)
+ 2025-08-26 — Gemini 2.5 Pro overloaded (day/evening)
+ 2025-08-28 — OpenRouter major outage (chat & generation)
+ 2025-08-28 — RC forum complaints (BEC/ESC failures)
+ 2025-08-30 — CME → G1 geomagnetic storm
+ 2025-09-01 — Storm effects continue
+ 2025-09-01 — USA — Additional incidents (Jackson MS; Bronzeville, etc.)
+ 2025-09-03 — Anthropic elevated errors (Opus/Sonnet)
+ 2025-09-04 — Google outage (EU Search/Gmail/Maps/YouTube)
+ 2025-09-04 — Gemini chatbot outage
+ 2025-09-05 — Anthropic Opus 4.1 unable to send messages (messaging failures)
+ 2025-09-05 — Langley, BC (CA) — Taxi-shooting homicide
+ 2025-09-07 — Melbourne CBD, VIC (AU) — Shooting death (Homicide Squad)
+ 2025-09-07 — Cobblebank, VIC (AU) — Two males fatally stabbed
+ 2025-09-07 — Blue Mountains, NSW (AU) — Body found in burning vehicle
+ 2025-09-08 — Clapham, London (UK) — Murder investigation after double shooting
+ 2025-09-09 — G2 geomagnetic storm
+ 2025-09-09 — OpenAI ChatGPT Agent errors
+ 2025-09-10 — Anthropic APIs & claude.ai down
+ 2025-09-10 — OpenAI Batch API errors
+ 2025-09-10 — OpenAI File Search broken
+ 2025-09-10 — Gemini outage reports
+ 2025-09-10 — Azure East US 2 allocator incident (VM/service management degraded)
+ 2025-09-10 — Burnaby, BC (CA) — Fatal shooting (IHIT)
+ 2025-09-11 — OpenAI Deep Research degraded
+ 2025-09-11 — OpenAI Fine-tuning jobs delayed
+ 2025-09-11 — Anthropic Opus 4.1 elevated errors
+ 2025-09-12 — Anthropic Sonnet 3.7 elevated errors
+ 2025-09-12 — OpenAI GPT-5 + Agent double-reply bug
+ 2025-09-12 — Cloudflare dashboard/API outage
+ 2025-09-12 — Chicago, IL (US) — Mass shooting (S. Halsted)
+ 2025-09-12 — RC heli (SAB Goblin) OW failure
+ 2025-09-13 — RC heli (OMP M2 MK2) runaway head speed
+ 2025-09-14 — G3 geomagnetic storm begins
+ 2025-09-14 — OpenAI API elevated errors
+ 2025-09-14 — NYC (US) — CompStat weekly snapshot (week ending; murders/shootings/major crimes)
+ 2025-09-15 — G3 storm ongoing
+ 2025-09-15 — Reddit outage (U.S.)
+ 2025-09-15 — Starlink outage (\~43k users)
+ 2025-09-15 — Mistral OCR API downtime
+ 2025-09-15 — Mistral service degradation
+ 2025-09-15 — Anthropic Opus 4.1 elevated errors (overnight)
+ 2025-09-15 — Electronics/network anomalies (UniFi loops; PC shutdowns; iPhone glitches; Tesla handles)
+ 2025-09-15 — Gemini image-gen defaults to square (feature bug)
+ 2025-09-15 — Minneapolis, MN (US) — Mass shooting near encampment
+ 2025-09-16 — G3 storm continues
+ 2025-09-16 — OpenAI SSO login errors
+ 2025-09-16 — OpenAI GPT Store errors
+ 2025-09-16 — Electronics anomalies (power brick failure; RC heli GPS phantom home points)
+ 2025-09-16 — Minneapolis, MN (US) — Second mass shooting near encampment
+ 2025-09-17 — Grafton, NSW (AU) — Man dies after stabbing
+ 2025-09-18 — NSW (AU) — Double stabbing at rail station
+

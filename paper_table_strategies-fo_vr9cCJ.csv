@@ -1,0 +1,12 @@
+"Paper Title","Paper Link","Publication Year","Publication Type","Publication Title","Author Names","DOI","PDF Link","Abstract","TL;DR"
+"Threat-Agnostic Resilience: Framing and Application for Critical
+  Infrastructure","https://scispace.com/paper/threat-agnostic-resilience-framing-and-application-for-59n6e1hpah8i","2025","Journal Article","","Benjamin D. Trump
+Stergios Α. Mitoulis
+Sotirios Argyroudis
+Gregory A. Kiker
+José Manuel Palma‐Oliveira
+Robert A. Horton
+Gianluca Pescaroli
+Elizaveta Pinigina
+Joshua Trump
+Igor Linkov","10.48550/arxiv.2501.01318","","Critical infrastructure is not indestructible. Threats, both emergent and systemic, have propagated beyond historical norms that risk mitigation efforts alone cannot alleviate. Interdependencies between infrastructural systems compound consequences at vulnerable locations but can be harnessed to maximize operational efficiency and recovery capability. Characterizing practical forms of resilient infrastructure through 5 basic principles (modularity, distributedness, redundancy, diversity, and plasticity) provides a foundation for critical infrastructure systems to absorb, recover, and adapt to disruptions agnostic of threat source. Challenges exist in developing methodological foundations for these principles within practical applications to prevent sunk cost and over-constraining operational procedures. This study evaluates each principle, establishing practical forms, quantification strategies, and their impact on critical infrastructure resilience. ","This study proposes a threat-agnostic resilience framework for critical infrastructure, grounded in 5 principles (modularity, distributedness, redundancy, diversity, and plasticity), to enhance operational efficiency and recovery capability, while addressing methodological challenges and sunk costs."
